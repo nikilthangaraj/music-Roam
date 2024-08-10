@@ -1,0 +1,12 @@
+{
+  "name": "music-player",
+  "version": "1.0.0",
+  "description": "This is a mern stack project, built because I was always interested in trying to make a music player that lets you play audio files you upload",
+  "main": "index.js",
+  "scripts":  {  
+    "start" : "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
